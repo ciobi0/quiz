@@ -13,6 +13,7 @@ import javax.persistence.Id;
 @Getter
 @ToString
 @Entity(name = "PLAYERS")
+//Player entity
 public class PlayerEntity {
 
     @Id
