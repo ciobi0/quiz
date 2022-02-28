@@ -1,0 +1,19 @@
+diff a/.gitignore b/.gitignore	(rejected hunks)
+@@ -0,0 +1,17 @@
++HELP.md
++mvnw
++mvnw.cmd
++.idea/.gitignore
++.idea/compiler.xml
++.idea/encodings.xml
++.idea/jarRepositories.xml
++.idea/misc.xml
++.idea/runConfigurations.xml
++.mvn/wrapper/maven-wrapper.jar
++.mvn/wrapper/maven-wrapper.properties
++target/classes/application.properties
++target/classes/com/quiz/QuizApplication.class
++target/classes/com/quiz/StartupRunner.class
++target/classes/com/quiz/model/PlayerEntity.class
++target/classes/com/quiz/repository/PlayerRepository.class
++target/test-classes/com/quiz/QuizApplicationTests.class
